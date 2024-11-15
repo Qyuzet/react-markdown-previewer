@@ -20,11 +20,11 @@ A simple React app that allows users to write and preview markdown content. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/markdown-previewer.git
+   git clone https://github.com/Qyuzet/react-markdown-previewer.git
    ```
 2. Navigate into the project directory:
    ```bash
-   cd markdown-previewer
+   cd react-markdown-previewer
    ```
 3. Install the dependencies:
    ```bash
