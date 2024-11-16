@@ -1,7 +1,7 @@
 
 # Markdown Previewer
 
-A simple React app that allows users to write and preview markdown content. The app converts markdown input to HTML using the `marked` library and displays it in real time. [TRY NOW!](https://codepen.io/Riki-A/pen/xxvBrXz)
+A simple React app that allows users to write and preview markdown content. The app converts markdown input to HTML using the `marked` library and displays it in real time. [TRY NOW!](https://react-markdown-previewer-jet.vercel.app/)
 
 ## Features
 
@@ -35,7 +35,7 @@ A simple React app that allows users to write and preview markdown content. The 
    npm start
    ```
 
-The app will be running on [http://localhost:3000](http://localhost:3000).
+The app will be running on [http://localhost:3000](https://react-markdown-previewer-jet.vercel.app/).
 
 ## How to Use
 
